@@ -1,0 +1,463 @@
+.container .item{
+    float: left;
+    cursor: pointer;
+}
+.container .item .title h1{
+    padding-left: 20px;
+    color: azure;
+    font-size: 60px;
+    text-transform:uppercase;
+    font-style: bold;
+    font-weight: 2000px;
+    cursor: pointer;
+}
+.container{
+    height: 500px;
+    width: 1358px;
+    background-color: gray;
+    cursor: grab;
+}
+.container .item li{
+    float: left;
+    color: azure;
+    font-size: 20px;
+    font-style: bold;
+    font-weight: 2000px;
+    margin-left: 90px;
+    margin-right:-60px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.container .item button{
+    background-color: blue;
+    height: 40px;
+    width: 140Spx;
+    border: 7px solid blue ;
+    border-radius: 40%;
+    text-align: center;
+    color: azure;
+    font-size: 20px;
+    font-style: bold;
+    font-weight: 2000px;
+    margin-left: 90px;
+    margin-top: 43px;
+    cursor: pointer;
+}
+.container-item a{
+    color: azure;
+    font-weight: 2000px;
+    text-decoration: none;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 290px;
+    margin-right: 165px;
+    letter-spacing: 3px;
+
+}
+ .container .container-item h2{
+    color: azure;
+    text-align: center;
+    margin-top: 180px;
+    letter-spacing: 10px;
+ font-size: 50px;
+}
+.container-item{
+    background-color: gray;
+    padding-top: 20px;
+    width:1358px
+}
+.container-item i{
+    color: azure;
+    font-weight: 2000px;
+    margin-left:8px;  
+    margin-right:8px;
+    cursor: pointer;  
+} 
+.container-item button{
+    background-color: blue;
+    height: 50px;
+    width: 140Spx;
+    border: 7px solid blue ;
+    border-radius: 40%;
+    text-align: center;
+    color: azure;
+    font-size: 20px;
+    font-style: bold;
+    font-weight: 2000px;
+    margin-left: 600px;
+    margin-top: 43px;
+    cursor: pointer;
+}
+.container-item i:hover{
+    background-size: 100px;
+    background-color: blue;
+}
+.recognise-item .blue-part{
+    display: inline-block;
+    border: 5 solid blue;
+    background-color: blue;
+    text-align: center;
+    height: 60px;
+    width: 60px;
+    color: azure;
+    font-size: 30px;
+    float: left;
+    margin-top: 2px;
+    line-height: 1px;
+}
+.recognise-item .item .type-1{
+    float: right;
+    margin-top: 10px;
+    padding-right: 900px;
+    font-weight: 0.1;
+
+}
+.recognise-item .item{
+    float: left;
+}
+.recognise-item h3{
+    margin-top: 80px;
+    font-size: 20px;
+}
+.recognise-item{
+    padding-left: 80px;
+    margin-right: 100px;
+}
+.recognise-item .item .type-2{
+    float: right;
+    padding-left: 900px;
+    font-style: italic;
+    text-indent: 30px;
+    font-size: 20px;
+    line-height: 25px;
+}
+#recognise{
+    height: 500px;
+    width: 1358px;
+    margin: 0 auto;
+}
+.join-item{
+    height: 300px;
+    width: 1358px;
+ background-color: blue;
+
+}
+.join-item .join-type1 h2{
+    color: azure;
+    font-size: 30px;
+    font-weight: 400px;
+    margin-left: 150px;
+    padding-top: 80px;
+}
+.join-item .join-type1 p{
+    font-size:20px;
+    font-weight: 400px;
+    margin-left: 150px;
+    padding-top: 0px;
+    color: azure;
+    line-height:0px ;
+}
+.join-item button{
+    line-height: 40px;
+    margin-top:50px ;
+    height:60px;
+    width: 130px;
+    margin-left: 150px;
+    border:3px solid azure;
+    background-color: blue;
+    color: azure;
+    font-size:15px ;
+    font-style: bold;
+    
+}
+.join-item button:hover{
+    background-color: azure;
+    color:black;
+    cursor:pointer;
+}
+ .work-item{
+     float: left;
+     padding-top: 50px;
+     margin-left: 150px;
+ }
+ .button{
+     float: right;
+ }
+ .work-item .first-item h1{
+     font-size: 60px;
+     font-style: bold;
+     margin-top: 40px;
+ }
+ .work-item .first-item{
+     line-height: 2px;
+     
+ }
+ .work-item .second-type{
+     margin-top: 40px;
+     color: gray;
+     font-size:20px ;
+     font-family: 'Times New Roman', Times, serif;
+     line-height: 4px;
+ }
+ #work .button{
+     margin-top:100px;
+     padding-right: 200px;
+ }
+ #work .button button{
+     border:1px solid gray;
+     box-shadow:black;
+     height: 40px;
+     width: 130px;
+     border-radius: 40%;
+     text-shadow: gray;
+     background-color:azure;
+     font-style:bold;
+     color: black;
+     font-weight: 90px;
+ }
+ #work .button button:hover{
+     cursor: pointer;
+     background-color:lightslategray;
+ }
+    #statics .statics-item{
+    height: 500px;
+    width: 1358px;
+    background-color:slategrey;
+    padding-top: 150px;
+    margin-top: 350px;
+ }
+ #statics .statics-item li{
+     float:left;
+     text-align: center;
+    color: azure;
+    font-family: fantasy;
+    font-size: 20px;
+    font-style: bold;
+    font-weight: 2000px;
+    margin-left: 100px;
+    margin-right: 80px;
+    cursor: pointer;
+    padding-right: 20px;
+ }
+ #statics .statics-item li p{
+     font-size: 50px;
+     font-style: bold;
+
+ }
+ #statics .statics-item li span{
+     text-align: center;
+     line-height:0.1px;
+ }
+ #services .services-item{
+     height:200 px;
+     width:1200px;
+     margin:0 auto;
+ }
+ #services .services-item .services-item1{
+     font-size: 50px;
+     padding-top: 100px;
+     padding-right: 350px;
+     padding-left: 400px;
+     font-weight: 1000px;
+ }
+ #services .services-item .line{
+    border-bottom: 3px solid blue;
+    width: 110px;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+#services .services-item .type{
+    color:lightslategrey;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    padding-left: 100px;
+}
+#services .icon{
+    padding-top: 100px;
+    height:200px;
+    width:1200px;
+    margin:0 auto;
+    padding-left: 30px;
+}
+#services .icon ul li{
+    float: left;
+    margin-right: 40px;
+}
+#services .icon ul li i{
+    font-size: 50px;
+    margin-left: 180px;
+}
+#services .icon ul li h4{
+    padding-top: 60px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+#services .icon ul li p{
+    text-align: center;
+    color:slategrey;
+}
+ #team .team-item{
+    height: 300px;
+    width: 1200px;
+    margin: 0 auto;
+    background-color:snow;
+ }
+ #team .team-item{
+    text-align: center;
+    margin-top: 300px;
+    font-size: 30px;
+    letter-spacing: 3px;
+    margin-left: 100px;
+}
+#team .team-item .line{
+    border-bottom: 3px solid blue;
+    width: 110px;
+    margin-left: 550px;
+    margin-right: 600px;
+}
+#team .team-item .type{
+    color:lightslategrey;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#team .icon ul li{
+    float:left;
+    margin-right: 60px;
+}
+#team .icon li .image{
+    border:2px solid white;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    height:200px;
+    width:200px;
+}
+#team .icon {
+    padding-right: 100px;
+      padding-left:130px ;
+}
+#team .icon ul li .picture-type i{
+    text-align: center;
+    color:black;
+    background-color: white;
+    cursor: pointer;
+    border:2px solid white;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    padding-left: 15px;
+    font-size: 20px;
+    height:20px;
+    width:20px ;
+}
+#team .icon ul li .picture-type p{
+    color: grey;
+}
+#team .icon ul li .picture-type span{
+    color: gainsboro;
+    margin-left: 20px;
+}
+#team .icon ul {
+  background-color: grey;  
+}
+#company .company-item {
+    height: 200px;
+    width: 1200px;
+    margin: 0 auto;
+    padding-top: 600px;
+    padding-right: 600px;
+    padding-left: 400px;
+}
+#company .company-item p{
+   margin-left: 130px;
+    font-size: 50px;
+    color: black;
+    font-style: bold;
+    font-weight: 200px;
+    line-height: 0px;
+}
+#company .company-item h2{
+    margin-left: 280px;
+    font-size: 25px;
+}
+#company .company-item span{
+    color:lightslategrey;
+}
+#contact .contact-item1{
+    float:left;
+    margin-left: 100px;
+    font-size: 20px;
+}
+#contact .contact-item2{
+    float: right;
+    margin-right: 300px;
+    margin-top: 5px;
+    font-size: 20px;
+}
+#conact.contact-item2 ul li{
+    float:right;
+}
+#contact{
+    height: 700px;
+    width: 1358px;
+    margin: 0 auto;
+    padding-top: 150px;
+    background-color:lightgray;
+}
+#contact .contact-item1 ul li{
+    color:gray;
+}
+#contact i{
+    background-color: white;
+}
+#subscribe .subscribe-item{
+    height: 300px;
+    width: 1358px;
+background-color: blue;;
+}
+#subscribe .subscribe-item .subscribe-item1{
+    padding-top: 100px;
+    margin-left: 100px;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 1000px;
+}
+#subscribe .subscribe-item .subscribe-item2{
+    text-align: center;
+    color: white;
+    font-weight: 1000px;
+    padding-top: 50px;
+    margin-left: 100px;
+}
+#subscribe .subscribe-item .subscribe-item2 input{
+    height:30px;
+    width: 100px;
+}
+.directions ul li{
+    float:left;
+    margin-right: 50px;
+    margin-left: 70px;
+    padding-top: 50px;
+    font-size: 15px;
+}
+.directions ul li pre{
+    color: lightslategrey;
+}
+.directions ul li p{
+    color: lightslategrey;
+}
+.directions ul li button{
+    color:white;
+    background-color: blue;
+}
+.year{
+   padding-top: 300px;
+   text-align: center;
+   color: lightslategrey;
+}

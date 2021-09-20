@@ -1,0 +1,33 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.row::after{
+    content: "";
+    display:block;
+    clear:both;
+}
+.item{
+    float:left;
+}
+.col-3{
+    width: calc(100%/4);
+}
+[class*= "col-"]{
+    float: left;
+}
+.container{
+    width:1174;
+    margin:0 auto;
+}
+.col-6{
+    width: calc(100%/2);
+}
+.col-4{
+    width: calc(100%/3);
+}
+.statics-item{
+    width:1174;
+    margin:0 auto;
+}
